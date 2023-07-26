@@ -1,6 +1,6 @@
 Hi, I am Prerna Tulsiani ✨
 
-I'm a Pre-Final Year student studying Computer Science at [College of Engineering, Pune](http://www.coep.org.in/).
+I'm a Final Year student studying Computer Science at [College of Engineering, Pune](http://www.coep.org.in/).
 
 ![Prerna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pt3002&show_icons=true&theme=synthwave)
 
