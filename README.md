@@ -2,7 +2,7 @@ Hi, I am Prerna Tulsiani ✨
 
 I'm a Final Year student studying Computer Science at [College of Engineering, Pune](http://www.coep.org.in/).
 
-![Prerna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pt3002&show_icons=true&theme=synthwave)
+<a href="#"><img alt="Prerna's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pt3002&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 
 
